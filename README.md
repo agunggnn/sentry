@@ -8,7 +8,7 @@
   ```bash
   user:
     create: true
-    email: agung.gunawan@shopee.com
+    email: email@example.com
     password: admin123!@#
 
   ingress:
