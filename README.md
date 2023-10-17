@@ -19,7 +19,7 @@
     # If you are using nginx ingress controller, please use at least those 2 annotations
       spec.ingressClassName: traefik
       ingress.kubernetes.io/ssl-redirect: "false" 
-    hostname: k3s.games.shopee.io
+    hostname: k3s.local
 
   sentry:
     singleOrganization: false
